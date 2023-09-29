@@ -2,7 +2,7 @@
 <h1 align="center"> Kipchoge WebXR </h1> <br>
 <p align="center">
 <!--   <a href="https://gitpoint.co/"> -->
-    <img alt="Senior Contrast checker logo" title="Senior Contrast checker" src="https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/App%20Store.png" width="300">
+    <img alt="Senior Contrast checker logo" title="Senior Contrast checker" src="https://github.com/jdenkim/Kipchoge-WebXR-Glitch-Clo3D/blob/main/Assets/IMB_ZOqF5H.GIF" width="500">
 
   </a>
 </p>
