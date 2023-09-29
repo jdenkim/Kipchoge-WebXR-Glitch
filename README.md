@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
- Link for Web XR experience.  
+ Scan QR code for Mobile Web XR experience.
 </p>
 
 <p align="center">
