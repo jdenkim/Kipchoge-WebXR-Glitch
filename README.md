@@ -7,25 +7,15 @@
   </a>
 </p>
 
-<!-- A 3D model of an astronaut -->
-<div align="center">
-  <model-viewer
-    src="https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/App%20Store.png"
-    ar
-    ar-scale="fixed"
-    camera-controls
-    touch-action="pan-y"
-    alt="A 3D model of an astronaut"
-    ios-src="https://github.com/jdenkim/SeniorContrastChecker-MacOS-iOS-VisionOS/blob/main/SeniorContrastChecker/App%20Store.png"
-    xr-environment
-    skybox-image="../../shared-assets/environments/aircraft_workshop_01_1k.hdr">
-  </model-viewer>
-</div>
-
-https://nike-kipchoge-clo3d.glitch.me/
- 
 <p align="center">
-  Built with Xcode 15.0 beta 7 (15A5229h).
+  Built with <a href="https://modelviewer.dev">Model-viewer</a> & <a href="https://glitch.com">Glitch</a>.
+</p>
+<p align="center">
+Experience it on MacOS, iOS, and VisionOS.
+</p>
+
+<p align="center">
+  Built with <a href="https://modelviewer.dev">Model-viewer</a> & <a href="https://glitch.com">Glitch</a>.
 </p>
 <p align="center">
 Experience it on MacOS, iOS, and VisionOS.
