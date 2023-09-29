@@ -32,3 +32,7 @@
 </p>
 
 
+## Build Process
+In my build process, I harness the capabilities of Model-Viewer to deliver immersive 3D experiences, enabling users to interact with dynamic models. Glitch serves as my rapid development platform, fostering collaboration and efficiency throughout the project's lifecycle. Meanwhile, Clo3D plays a crucial role in the design phase, allowing me to meticulously craft 3D apparel models. The integration of Web XR further enhances the project, bringing essential elements together for a seamless and engaging user experience.
+
+For a more in-depth understanding of my development process and to explore further insights, please view my Google slides presentation [HERE](https://docs.google.com/presentation/d/1AoY95kLIaJbiXSdAsF2-xSaKRtsJRU6awEO4G32NG-Y/edit#slide=id.g25ff286d3b7_0_8).
