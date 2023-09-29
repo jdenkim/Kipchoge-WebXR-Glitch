@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="https://nike-kipchoge-clo3d.glitch.me/">
-    <img alt="Download on the Mac App Store" title="MacOS" src="http://i.imgur.com/0n2zqHD.png" height="50">
+    <img alt="WebXR Kipchoge App Icon" title="WebXR Kipchoge App Icon" src="https://github.com/jdenkim/Kipchoge-WebXR-Glitch-Clo3D/blob/main/Assets/WebXRKipchogeAppIcon.png" width="128">
   </a>
 </p>
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <a href="https://apps.apple.com/us/app/seniorcontrastchecker/id6466521008?mt=12">
-    <img alt="Download on the Mac App Store" title="MacOS" src="http://i.imgur.com/0n2zqHD.png" height="50">
+    <img alt="WebXR Kipchoge App Icon QRCode" title="QR Code" src="https://github.com/jdenkim/Kipchoge-WebXR-Glitch-Clo3D/blob/main/Assets/WebXRKipchogeAppIconQRCode.png" width="128">
   </a>
 </p>
 
